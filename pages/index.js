@@ -31,8 +31,13 @@ export default function Home() {
     <>
       <Head>
         <meta charSet="utf-8" />
+        
         <title>{db.title}</title>
 
+        <meta property="og:title" content={db.title} />
+        <meta property="og:description" content={db.description}/>
+
+        {/* Utilizaddo para apresetar imagem de preview no momento de compartilhar o site */}
         <meta property="og:title" content={db.title}/>
         <meta property="og:image" content={db.bg}/>
         <meta property="og:image:type" content="image/jpeg"/>
