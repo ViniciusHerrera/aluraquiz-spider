@@ -4,25 +4,63 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://cdn.mos.cms.futurecdn.net/rCS8TjC9FsWLe5bFTXo8ck-320-80.jpg",
+      "title": "Peter Porker trabalha no?",
+      "description": "",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Clarim Diário",
+        "Canino Diário",
+        "Planeta Diário",
+        "Porker Clárim"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://culturagame.com.br/wp-content/uploads/2019/01/homem-aranha-no-aranhaverso.jpg",
+      "title": "Após ser picado pela Aranha, Miles acha que?",
+      "description": "",
+      "answer": 4,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Iria morrer",
+         "Iria passar mal",
+         "Iria virar o Homem-Aranha",
+         "Tinha chegado na puberdade"
+      ]
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJiAlLT0ot51eOWQp4gVKNgteRMmrhE2cgNA&usqp=CAU",
+      "title": "O Homem-Aranha de Peter Parker faz referência a qual ator?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+         "Andrew Garfield",
+         "Nicholas Hammond",
+         "Tobey Maguire",
+         "Tom Holland"
+      ]
+    },
+    {
+      "image": "https://s2.glbimg.com/UHcXfZv-SKMGJYm76SMBiPrxEXU=/342x0:1500x744/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/5/I/Cvvh11QmSYtK1ZynvVIw/homem-aranha-aranhaverso-1.jpg",
+      "title": "Quem fica do lado de fora do Colisor para mandar os outros à suas realidades originais?",
+      "description": "",
+      "answer": 4,
+      "alternatives": [
+         "Gwen Stacy",
+         "Peter B. Parker",
+         "Peni Parker",
+         "Miles"
+      ]
+    },
+    {
+      "image": "https://sirinerd.com.br/wp-content/uploads/2020/06/spider-gwen.jpg",
+      "title": "Qual era o melhor amigo de Gwen em sua dimensão original?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+         "Porco Aranha",
+         "Peter Parker",
+         "Miguel O'Hara",
+         "Miles Morales"
       ]
     }
   ],
